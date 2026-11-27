@@ -1,0 +1,28 @@
+{
+  "name": "1dam_pi_dentalturno",
+  "version": "1.0.0",
+  "description": "Repositorio habilitado para el desarrollo del proyecto intermodular del CFGS 1DAM.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X3N-3ND/1DAM_PI_DentalTurno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/X3N-3ND/1DAM_PI_DentalTurno/issues"
+  },
+  "homepage": "https://github.com/X3N-3ND/1DAM_PI_DentalTurno#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
