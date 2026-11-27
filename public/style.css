@@ -79,3 +79,9 @@ footer {
         padding: 15px;
     }
 }
+
+/* Destacar las ofertas urgentes */
+.urgente {
+    color: #b42318;
+    font-weight: bold;
+}
